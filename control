@@ -1,0 +1,8 @@
+Package: com.yourname.autotappersimple
+Name: AutoTapper Simple
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Description: Simple Auto Tap Tool
+Maintainer: Ahmad
+Author: Ahmad
+Section: Tweaks
